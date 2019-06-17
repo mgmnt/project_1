@@ -3,4 +3,5 @@ venv
 staticfiles
 .env
 db.sqlite3
+df.sq3
 getting-started/*
